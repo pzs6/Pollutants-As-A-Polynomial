@@ -1,4 +1,11 @@
 # Pollutants-As-A-Polynomial
+## Table of Contents
+1. [About this project](#about-this-project)
+2. [Source of data](#source-of-data)
+3. [Data cleaning and formatting](#data-cleaning-and-formatting)
+4. [Data Modeling, Evaluation and Visualization](#data-modeling-evaluation-and-visualization)
+
+
 
 ## About this project
 🔍 **Project Objective:** Analyze how nitrogen oxides (NOx) emissions have changed in the Guadalajara Metropolitan Area (AMG) over the past 20 years and what insights an intelligent model can provide about their evolution. 🚀  
