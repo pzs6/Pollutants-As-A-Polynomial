@@ -18,8 +18,6 @@
 📥 **Data Format:**  
 - Available in **Excel**, divided by year.  
 - Contains **hourly and daily** measurements of pollutants and **meteorological variables**.  
-
-🏙️ **Stations:**  
 - Measurements come from various **meteorological stations** in the city of Guadalajara.  
 
 ## Data cleaning and formatting
